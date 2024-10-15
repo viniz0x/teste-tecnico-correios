@@ -1,0 +1,14 @@
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\bin\Debug\net8.0\teste_correios.exe
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\bin\Debug\net8.0\teste_correios.deps.json
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\bin\Debug\net8.0\teste_correios.runtimeconfig.json
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\bin\Debug\net8.0\teste_correios.dll
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\bin\Debug\net8.0\teste_correios.pdb
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.AssemblyInfoInputs.cache
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.AssemblyInfo.cs
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.csproj.CoreCompileInputs.cache
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.dll
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\refint\teste_correios.dll
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.pdb
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\teste_correios.genruntimeconfig.cache
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\teste_correios\obj\Debug\net8.0\ref\teste_correios.dll
